@@ -26,5 +26,5 @@ Upgrade-Insecure-Requests: 1
 
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/sql.gif?raw=true)
+![](https://github.com/mikeccltt/0525/blob/main/student-registration-and-fee-payment-system/sql.gif?raw=true)
 
