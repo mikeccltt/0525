@@ -175,4 +175,4 @@ Content-Disposition: form-data; name="submit"
 
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/xss.gif?raw=true)
+![](https://github.com/mikeccltt/0525/blob/main/zoo-management-system/xss.gif?raw=true)
